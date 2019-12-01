@@ -11,4 +11,4 @@ Possible Use Cases:
 
 Please contribute to this list if you can.
 
-Thanks to [jdepalma](https://github.com/jdepalma) for [providing a script](https://github.com/silvether/pia-ranges/blob/master/IPs_022019) that can snag all the most current IPs associated with PIA.
+Thanks to [jdepalma](https://github.com/jdepalma) for [providing a script](https://github.com/silvether/pia-ranges/blob/master/IPs_022019) that can snag all the most current IPs associated with connecting to PIA.
