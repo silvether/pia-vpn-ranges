@@ -1,4 +1,4 @@
-# pia-ranges
+# pia-vpn-ranges
 A list of all IP blocks used by the Private Internet Access VPN service. Very useful for firewall whitelisting given these are not officially documented.
 
 While I can not be certain that PIA uses all of the IPs in these blocks it is nonetheless useful in minimizing an attack surface.
